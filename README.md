@@ -10,7 +10,7 @@
 ### Where to find me 🔎
 
 <p>
-  <a href="https://github.com/DenverCoder1"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/marissa-zavala/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
 or you can send me an email to: marizavala.lrc@gmail.com
 
