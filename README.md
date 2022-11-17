@@ -3,7 +3,7 @@
  I´m a front end developer who is passionate about to learn some new everyday. I enjoy working with include Javascript, HTML, CSS, NODE.js 
 
 - 🔭 I’m currently working on [Burger Queen](https://github.com/MarissaZavala/CDMX013-burger-queen-api-client)
-- 🌱 I’m currently learning ...
+- 🌱 I’m currently learning REACT
 
 <br>
 
