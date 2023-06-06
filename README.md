@@ -2,7 +2,7 @@
 ### Hi there 👋
  I´m a front end developer who is passionate about to learn some new everyday. I enjoy working with include Javascript, HTML, CSS, NODE.js 
 
-- 🔭 I’m currently taking the One next education front-end specialization
+- 🔭 I’m currently taking the Oracle Next Education front-end specialization
 - 🌱 I’m currently learning REACT
 
 <br>
