@@ -2,7 +2,7 @@
 ### Hi there 👋
  I´m a front end developer who is passionate about to learn some new everyday. I enjoy working with include Javascript, HTML, CSS, NODE.js 
 
-- 🔭 I’m currently working on [Burger Queen](https://github.com/MarissaZavala/CDMX013-burger-queen-api-client)
+- 🔭 I’m currently taking the One next education front-end specialization
 - 🌱 I’m currently learning REACT
 
 <br>
@@ -17,8 +17,7 @@ or you can send me an email to: marizavala.lrc@gmail.com
 <br><br>
 
 ### A little more of me 
-- I´m currently studiying an intensive bootcamp in Laboratoria.
-
+- I´m a Laboratoria graduate
 <br>
 
 ### Things i use or code daily:
